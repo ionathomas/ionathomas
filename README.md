@@ -1,6 +1,7 @@
-# I’m Iona Thomas 👋 | Software Engineer & Aspiring Full Stack Developer
+# I’m Iona Thomas 👋 | Software Engineer • Aspiring Full Stack Developer • ETL Enthusiast  
 
-I’m **Iona Thomas**, a passionate Software Engineer who enjoys building scalable backend systems and solving data challenges.  
+Passionate about solving problems, building scalable systems, and always eager to learn something new.  
+I enjoy working across the stack — from databases and ETL pipelines to APIs and frontend development.  
 
 - 💻 Skilled in **Java, Python, SQL, ETL Testing, and Talend**  
 - 🚀 Currently exploring **React** to strengthen my frontend skills
